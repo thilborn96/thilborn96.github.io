@@ -7759,8 +7759,8 @@ h1, h2, h3, h4, h5,
         color: #fff;
         font-size: 30px; }
     .services-wrap .list-services .text {
-      width: calc(100% - 80px);
-      padding-left: 30px; }
+     width: calc(100% - 30px);
+      padding-left: 10px;
       .services-wrap .list-services .text h3 {
         font-size: 20px; }
 
